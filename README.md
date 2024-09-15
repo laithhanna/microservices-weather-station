@@ -52,5 +52,6 @@ This diagram illustrates the overall architecture, including the interaction bet
 
 ![Architecture](https://github.com/user-attachments/assets/a8b598ba-5ea8-4046-a9a5-32a8f02cd04b)
 
+![OverviewGif](https://github.com/user-attachments/assets/be06fe27-7e15-404d-be31-2074487eaac8)
 
 ---
