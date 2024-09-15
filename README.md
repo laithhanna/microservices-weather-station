@@ -50,6 +50,7 @@ This directory contains the scripts that run on the Raspberry Pi to gather weath
 
 This diagram illustrates the overall architecture, including the interaction between the Raspberry Pi, Flask, Google Cloud services, and the frontend/backend applications running on Google Cloud Run.
 
-![Weather Station Architecture](https://github.com/your-username/weather-station-project/blob/main/images/architecture-diagram.png)
+![Architecture](https://github.com/user-attachments/assets/a8b598ba-5ea8-4046-a9a5-32a8f02cd04b)
+
 
 ---
